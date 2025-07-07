@@ -1,4 +1,64 @@
-## Hi there 👋
+<h1 align="center">👋 Привет, я Tokenomist</h1>
+
+<p align="center">
+🌐 Исследую криптовалюты, Web3, Zero-Knowledge, DePIN и AI + Blockchain  
+🧠 Анализирую тренды, пишу гайды, тестирую технологии  
+🎯 Создаю ресерч, инструменты и открытые заметки
+</p>
+
+---
+
+## 🚀 Что вы найдёте в этом профиле
+
+- 📚 Роадмапы по zk, DePIN, AI-in-Web3
+- 🧪 Гайды по тестнетам и экспериментальным протоколам
+- 🔍 Аналитика и исследование перспективных экосистем
+- 🛠️ Open-source мини-проекты и скрипты
+
+---
+
+## 🌐 Мои ресурсы
+
+<p align="center">
+  <a href="https://x.com/info_tokenomist">🐦 Twitter / X</a> •
+  <a href="https://t.me/info_tokenomist">💬 Telegram</a> •
+  <a href="https://www.youtube.com/@TOKENOMIST">🎥 YouTube</a> •
+  <a href="https://link3.to/tokenomist">🌍 Link3</a>
+</p>
+
+---
+
+## 📌 Избранные репозитории (coming soon)
+
+| Репозиторий | Описание |
+|------------|----------|
+| `zk-roadmap` | 📘 Путь изучения Zero-Knowledge от теории до кода |
+| `zama-testnet-guide` | 🧪 Гайд по тестнету Zama Protocol |
+| `web3-notes` | ✍️ Публичные заметки и исследования по Web3 |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Tokenomist&show_icons=true&theme=transparent" alt="Tokenomist GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tokenomist&layout=compact&theme=transparent" alt="Top Languages" />
+</p>
+
+---
+
+## 🕸️ Активность
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tokenomist&theme=github-compact" alt="Activity Graph" />
+</p>
+
+---
+
+<p align="center">
+  <i>“The next internet will be owned by its users.”</i>
+</p>
 
 <!--
 **Tokenomist/Tokenomist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
