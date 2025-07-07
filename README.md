@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Tokenomist/Tokenomist/main/TOKENOMIST.png" alt="Tokenomist Banner" />
+</p>
+
 <h1 align="center"> Привет! Я Tokenomist👋 </h1>
 
 <p align="center">
