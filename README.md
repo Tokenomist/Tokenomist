@@ -1,4 +1,4 @@
-<h1 align="center">👋 Привет, я Tokenomist</h1>
+<h1 align="center"> Привет! Я Tokenomist👋 </h1>
 
 <p align="center">
 🌐 Исследую криптовалюты, Web3, Zero-Knowledge, DePIN и AI + Blockchain  
