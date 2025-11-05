@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Тетрис</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <main class="app">
+    <header class="app__header">
+      <h1>Тетрис</h1>
+      <div class="scoreboard">
+        <div class="scoreboard__item">Счёт: <span id="score">0</span></div>
+        <div class="scoreboard__item">Линии: <span id="lines">0</span></div>
+        <div class="scoreboard__item">Уровень: <span id="level">1</span></div>
+      </div>
+      <div class="controls">
+        <button id="start">Старт / Пауза</button>
+        <button id="restart">Заново</button>
+      </div>
+    </header>
+
+    <section class="playfield">
+      <div class="grid-wrapper">
+        <div class="grid" id="grid" aria-label="Игровое поле"></div>
+        <div class="message" id="message" role="status" aria-live="polite"></div>
+      </div>
+      <aside class="sidebar">
+        <h2>Следующая фигура</h2>
+        <div class="mini-grid" id="mini-grid" aria-label="Следующая фигура"></div>
+        <div class="help">
+          <h3>Управление</h3>
+          <ul>
+            <li>⬅️ ➡️ — перемещение</li>
+            <li>⬆️ — вращение</li>
+            <li>⬇️ — ускорение</li>
+            <li>Пробел — мгновенный сброс</li>
+          </ul>
+        </div>
+      </aside>
+    </section>
+
+    <footer class="touch-controls">
+      <button data-action="left">⬅️</button>
+      <div class="touch-controls__middle">
+        <button data-action="rotate">⟳</button>
+        <button data-action="down">⬇️</button>
+      </div>
+      <button data-action="right">➡️</button>
+      <button data-action="drop">⤓</button>
+    </footer>
+  </main>
+
+  <script src="script.js"></script>
+</body>
+</html>
