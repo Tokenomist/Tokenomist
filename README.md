@@ -5,7 +5,7 @@
 <h1 align="center"> Привет! Меня зовут Tokenomist 👋 </h1>
 
 <p align="center">
-Я исследую крипто-мир, Web3, Zero-Knowledge, DePIN и AI + Blockchain  
+Я исследую крипто-мир, Web3, DePIN и AI + Blockchain  
 Я анализирую тренды, пишу гайды, тестирую технологии  
 Я делаю ресерч, инструменты и открытые заметки
 </p>
