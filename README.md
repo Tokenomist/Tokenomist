@@ -24,10 +24,9 @@
 ## Мои ресурсы, подпишись!
 
 <p align="center">
-  <a href="https://x.com/info_tokenomist">🐦 Twitter / X</a> •
-  <a href="https://t.me/info_tokenomist">💬 Telegram</a> •
+  <a href="https://x.com/etokapital">🐦 Twitter / X</a> •
+  <a href="https://t.me/etokapital">💬 Telegram</a> •
   <a href="https://www.youtube.com/@TOKENOMIST">🎥 YouTube</a> •
-  <a href="https://link3.to/tokenomist">🌍 Link3</a>
 </p>
 
 ---
